@@ -1,4 +1,4 @@
-# Analisis-de-Imagenes
+# Analisis-de-Imágenes
 Práctica final de la materia.
 
 En el proyecto, se tiene integrado los filtros de estadística de orden.
