@@ -1,19 +1,23 @@
-# Analisis-de-Imágenes
-Práctica final de la materia.
+# Image Analysis - Analisis de Imágenes
 
-En el proyecto, se tiene integrado los filtros de estadística de orden.
+Final project of the subject.
 
-a)	De Máxima.
+Into the project, order statistics filters are integrated.
 
-b)	De Mínima.
+a)	Max Filter.
 
-c)	De punto medio.
+b)	Min Filter.
 
-d)	De Medio de corte alfa. 
+c)	Median Filter.
 
-Con kérneles ajustables.
+d)	Alpha-Trimmed Mean Filter.
 
-Los ruidos implementados en el programa fueron:
+With adjustable kernels.
 
-1.	Ruido uniforme aleatorio.
-2.	Ruido exponencial aleatorio.
+The noises implemented in the program were:
+
+1.	Random Uniform Noise
+2.	Random Exponential Noise
+
+
+
