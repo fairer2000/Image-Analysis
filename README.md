@@ -1,23 +1,33 @@
 # Image Analysis - Analisis de Imágenes
 
-Final project of the subject.
+Este proyecto es una herramienta de análisis de imágenes que permite aplicar y eliminar el ruido de imágenes utilizando técnicas avanzadas de visión por computadora.
+Asegurarse de tener instalado
 
-Into the project, order statistics filters are integrated.
+- OpenCV
+- Numpy
+- Tkinter
+- PyTQ5
 
-a)	Max Filter.
+Para hacer uso del programa basta con ejecutar el siguiente comando en cmd.
 
-b)	Min Filter.
+```cmd
+python .\app.py
+```
 
-c)	Median Filter.
+Uso del programa.
 
-d)	Alpha-Trimmed Mean Filter.
+Aplicación del kernel
+Seleccionar imagen
+a) Filtro Máximo.
 
-With adjustable kernels.
+b) Filtro Mínimo.
 
-The noises implemented in the program were:
+c) Filtro de punto medio.
 
-1.	Random Uniform Noise
-2.	Random Exponential Noise
+d) Filtro Medio de Corte Alfa
+
+Guardar imagen
+
 
 
 
