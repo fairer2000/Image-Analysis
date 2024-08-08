@@ -146,4 +146,5 @@ Como podemos observar, la imagen se guardo en la ruta previamente seleccionada.
   <img src="https://github.com/user-attachments/assets/18665985-404a-4675-91ad-68137afa6d13" alt="Image Saved" />
 </p>
 
-
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
