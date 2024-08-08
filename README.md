@@ -6,7 +6,7 @@ Asegurarse de tener instalado
 - OpenCV
 - Numpy
 - Tkinter
-- PyTQ5
+- PyQT5
 
 Para hacer uso del programa basta con ejecutar el siguiente comando en cmd.
 
@@ -16,11 +16,19 @@ python .\app.py
 
 Uso del programa.
 
+![menu](https://github.com/user-attachments/assets/8cb5d2ce-94bc-4d17-a48a-e712f8303f23)
+
+
 Aplicación del kernel
+
+
 Seleccionar imagen
+
+
 a) Filtro Máximo.
 
 b) Filtro Mínimo.
+
 
 c) Filtro de punto medio.
 
